@@ -33,7 +33,7 @@ const AboutComponent = () => {
               <br />
             </p>
             <p className="text-lg xl:text-xl text-gray-700 mt-8 ml-0 xl:ml-1 md:text-center xl:text-left">
-              ELLA
+              Daniela
             </p>
             <p className="text-xl xl:text-xl text-gray-700 ml-0 xl:ml-1 md:text-center xl:text-left">
               Directora de AGENZIA IMMOBILIARE
